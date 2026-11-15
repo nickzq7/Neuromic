@@ -4,6 +4,8 @@ Neurowmic is a terminal-based antivirus scanner written in Java. It scans files 
 
 This project was built to learn Java and Data Structures and Algorithms (DSA) while building a real tool.
 
+![Neurowmic Flowchart](FlowChart.png)
+
 ## Features
 
 - **--help** : Show usage and all commands
